@@ -1,0 +1,19 @@
+{
+  "name": "shopify-sv-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamclasic/shopify-csv-editor.git"
+  },
+  "author": "adamclasic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamclasic/shopify-csv-editor/issues"
+  },
+  "homepage": "https://github.com/adamclasic/shopify-csv-editor#readme"
+}
